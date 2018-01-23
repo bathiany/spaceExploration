@@ -8,6 +8,8 @@ Saturn
 Uranus
 Neptune
 
+Stavro Mueller Beta
+
 dwarf planets:
 Ceres
 Pluto
